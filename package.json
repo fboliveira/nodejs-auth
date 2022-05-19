@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-auth",
+  "version": "0.0.1",
+  "description": "NodeJS Auth Process - study project",
+  "main": "index.js",
+  "author": "Fernando B Oliveira",
+  "license": "MIT"
+}
